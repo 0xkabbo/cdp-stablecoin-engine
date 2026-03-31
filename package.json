@@ -1,0 +1,11 @@
+{
+  "name": "cdp-stablecoin-engine",
+  "version": "1.0.0",
+  "description": "Collateralized Debt Position Engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@chainlink/contracts": "^1.1.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
